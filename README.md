@@ -5,8 +5,8 @@
 
 # RapeSenpai
 **新概念Home游戏**
-  搬运自作者Xiaohuang257
-  原作者地址https://github.com/Xiaohuang257/RapeSenpai
+  **搬运自作者Xiaohuang257**
+  **原作者地址https://github.com/Xiaohuang257/RapeSenpai**
 </div>
 
 ## 简介
